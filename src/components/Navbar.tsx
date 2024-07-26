@@ -65,17 +65,10 @@ export default function Navbar() {
             <a href="/evaluation">การประเมินนโยบายสาธารณะ</a>
             </li>
             <li>
-              <details>
-                <summary>ChatGPT</summary>
-                <ul className="p-2">
-                  <li>
-                    <a>ทีมงาน</a>
-                  </li>
-                  <li>
-                    <a></a>
-                  </li>
-                </ul>
-              </details>
+            <a href="/chatgpt">ChatGPT</a>
+            </li>
+            <li>
+            <a href="/">ทีมงาน</a>
             </li>
             <li>
               <a>ติดต่อ</a>
